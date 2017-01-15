@@ -1,5 +1,5 @@
 # StmProp
 
-An Implementation of IAPWS-IF97 Steam Tables
+A .Net Framework (C#) implementation of IAPWS-IF97 steam tables
 
-Original website:http://www.nkurul.com/steamtables/index.html
+Original website: http://www.nkurul.com/steamtables/index.html
